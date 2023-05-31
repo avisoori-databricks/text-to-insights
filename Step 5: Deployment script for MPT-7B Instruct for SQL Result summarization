@@ -1,4 +1,5 @@
 # Databricks notebook source
+# From https://github.com/ahdbilal/Databricks-GPU-Serving-Examples/blob/main/examples/mpt-7b-instruct(pyfunc).py
 import pandas as pd
 import numpy as np
 import transformers
